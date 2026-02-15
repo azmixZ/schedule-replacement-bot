@@ -4,9 +4,9 @@ A Telegram bot designed to manage college schedules with automated replacement t
 
 Project Structure
 
-`main/` — Core logic, including `bot.py` (Telegram handler) and `schedule.py` (parsing logic).
-`data/` — Storage for `raspisanie.xlsx` (static schedule) and `zameni.docx` (daily replacements).
-`requirements.txt` — List of necessary Python libraries.
+`main/` â€” Core logic, including `bot.py` (Telegram handler) and `schedule.py` (parsing logic).
+`data/` â€” Storage for `raspisanie.xlsx` (static schedule) and `zameni.docx` (daily replacements).
+`requirements.txt` â€” List of necessary Python libraries.
 
 Features
 
@@ -19,7 +19,7 @@ Getting Started
 
 1.  Clone the repository :
     ```bash
-    git clone [https://github.com/yourusername/schedule-replacement-bot.git](https://github.com/yourusername/schedule-replacement-bot.git)
+    git clone [https://github.com/yourusername/schedule-replacement-bot.git](https://github.com/azmixZ/schedule-replacement-bot.git)
     cd schedule-replacement-bot
     ```
 
