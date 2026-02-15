@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]
+pandas
+openpyxl
+python-docx
+pytz
+python-dotenv
